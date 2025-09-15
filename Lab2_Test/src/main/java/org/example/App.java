@@ -15,7 +15,7 @@ public class App {
             }
         }
 
-        System.out.println("Полученная случайным образом матрица:");
+         System.out.println("Полученная случайным образом матрица:");
         for (int[] row : matrix) {
             for (int value : row) {
                 System.out.print(value + " ");
