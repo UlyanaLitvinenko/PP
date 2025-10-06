@@ -1,0 +1,5 @@
+Chair 56
+Table 78
+Sofa 88
+Desk 88
+Lamp 99
