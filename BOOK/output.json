@@ -1,0 +1,37 @@
+[ {
+  "lastName" : "Иванов",
+  "firstName" : "Иван",
+  "middleName" : "Иванович",
+  "course" : 2,
+  "group" : "ИТ-21",
+  "sessions" : [ {
+    "number" : 1,
+    "subject" : "Математика",
+    "passed" : true,
+    "mark" : 9
+  }, {
+    "number" : 1,
+    "subject" : "Физика",
+    "passed" : true,
+    "mark" : 10
+  } ],
+  "excellent" : true
+}, {
+  "lastName" : "Сидоров",
+  "firstName" : "Алексей",
+  "middleName" : "Сергеевич",
+  "course" : 3,
+  "group" : "МАТ-31",
+  "sessions" : [ {
+    "number" : 1,
+    "subject" : "Программирование",
+    "passed" : true,
+    "mark" : 9
+  }, {
+    "number" : 1,
+    "subject" : "Базы данных",
+    "passed" : true,
+    "mark" : 9
+  } ],
+  "excellent" : true
+} ]
