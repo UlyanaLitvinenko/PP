@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1" copies="5" available="5">
+        <title>Java Programming</title>
+        <author>James Gosling</author>
+        <year>2020</year>
+        <price>49.99</price>
+        <category>programming</category>
+    </book>
+    <book id="2" copies="4" available="3">
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <year>1994</year>
+        <price>39.99</price>
+        <category>computer-science</category>
+    </book>
+    <book id="3" copies="6" available="4">
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <price>45.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="4" copies="3" available="2">
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <year>1999</year>
+        <price>49.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="5" copies="7" available="7">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+        <price>54.99</price>
+        <category>programming</category>
+    </book>
+    <book id="6" copies="5" available="1">
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt</author>
+        <year>1999</year>
+        <price>42.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="7" copies="4" available="4">
+        <title>Algorithms</title>
+        <author>Robert Sedgewick</author>
+        <year>2011</year>
+        <price>59.00</price>
+        <category>algorithms</category>
+    </book>
+    <book id="8" copies="8" available="6">
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <year>2009</year>
+        <price>79.99</price>
+        <category>algorithms</category>
+    </book>
+    <book id="9" copies="5" available="5">
+        <title>Database System Concepts</title>
+        <author>Abraham Silberschatz</author>
+        <year>2010</year>
+        <price>64.50</price>
+        <category>databases</category>
+    </book>
+    <book id="10" copies="6" available="3">
+        <title>MySQL Cookbook</title>
+        <author>Paul DuBois</author>
+        <year>2014</year>
+        <price>52.00</price>
+        <category>databases</category>
+    </book>
+    <book id="11" copies="4" available="4">
+        <title>Patterns of Enterprise Application Architecture</title>
+        <author>Martin Fowler</author>
+        <year>2002</year>
+        <price>58.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="12" copies="5" available="5">
+        <title>Clean Architecture</title>
+        <author>Robert C. Martin</author>
+        <year>2017</year>
+        <price>47.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="13" copies="3" available="2">
+        <title>Agile Software Development</title>
+        <author>Robert C. Martin</author>
+        <year>2002</year>
+        <price>43.00</price>
+        <category>software-engineering</category>
+    </book>
+    <book id="14" copies="5" available="5">
+        <title>The C++ Programming Language</title>
+        <author>Bjarne Stroustrup</author>
+        <year>2013</year>
+        <price>69.00</price>
+        <category>programming</category>
+    </book>
+    <book id="15" copies="4" available="4">
+        <title>A Tour of C++</title>
+        <author>Bjarne Stroustrup</author>
+        <year>2018</year>
+        <price>39.50</price>
+        <category>programming</category>
+    </book>
+</library>
